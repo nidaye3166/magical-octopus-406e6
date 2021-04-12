@@ -11,6 +11,7 @@ header-includes: |
 abstract: This is a pandoc test with Markdown + inline LaTeX
 
 ---
+\begin{itemize}
 {\textbf{\emph{Journal (J) Articles:}}}
 \smallskip\begin{enumerate}\[\ \ J1.$!$]
 \item {\textbf{T. Yuan}} and Yaakov Bar-Shalom, Sensor Fusion for Autonomous Systems: opportunities, challenges and paths for industrial applications'', drafting, \emph{IEEE Signal Processing Magazine}, Dec. 2020.
