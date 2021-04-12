@@ -49,7 +49,7 @@ weight = 3
 
 [[menu.main]]
 name = "SensorFusion"
-url = "lorem-ipsum"
+url = "/services/"
 weight = 4
 
 [[menu.main]]
