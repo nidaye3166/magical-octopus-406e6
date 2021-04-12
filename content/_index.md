@@ -8,20 +8,20 @@ intro_image_hide_on_mobile: true
 
 #### I am a Research Scientist for Autonomous Systems. You would learn the following about me and my work:
 
-*   Research (aerospace application, autonomous driving, autonomous systems)
+*   Research 
 
 <!---->
 
-*   Publications (IEEE, ISIF Fusion, SPIE ...)
+*   Publications 
 
 <!---->
 
-*   Sensor Fusion (IMM-KFs, Bayesian analysis and such)
+*   Sensor Fusion 
 
 <!---->
 
-*   Product (applications for my work in real world)
+*   Product 
 
 <!---->
 
-*   Blog (news, literatures, articles ...)
+*   Blog
