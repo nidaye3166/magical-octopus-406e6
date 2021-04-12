@@ -10,10 +10,12 @@ intro_image_hide_on_mobile: true
 
 *   Research (aerospace application, autonomous driving, autonomous systems)
 
+<!---->
+
 *   Publications (IEEE, ISIF Fusion, SPIE ...)
 
-*   Sensor Fusion (IMM-KFs, Bayesian analysis and such)
+#### Sensor Fusion (IMM-KFs, Bayesian analysis and such)
 
-*   Product (applications for my work in real world)
+#### Product (applications for my work in real world)
 
-*   Blog (news, literatures, articles ...)
+#### Blog (news, literatures, articles ...)
