@@ -1,5 +1,6 @@
 ---
 date: '2018-02-22T17:01:34+07:00'
+title: Pub
 ---
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
