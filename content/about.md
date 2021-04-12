@@ -13,7 +13,7 @@ abstract: This is a pandoc test with Markdown + inline LaTeX
 ---
 
 __Journal (J)__ Articles
-\smallskip\begin{enumera \ J1.$!$]
+\smallskip\be$]
 \item {\textbf{T. Yuan}} and Yaakov Bar-Shalom, Sensor Fusion for Autonomous Systems: opportunities, challenges and paths for industrial applications'', drafting, \emph{IEEE Signal Processing Magazine}, Dec. 2020.
 \item {\textbf{T. Yuan}}, et al., Object Tracking with De-Autocorrealtion Scheme for data from Multiple Stage Bayesian Analysis". in Revision, \emph{IEEE Trans. Intelligent Transportation Systems}, 2020.
 \item D. Nuss, S. Reuter, M. Thom, \textbf{T. Yuan}, et al., A Random Finite Set Approach for Dynamic Occupancy Grid Maps with Real-Time Application", \emph{International Journal of Robotics Research (IJRR)}, vol.37(8): 841-866, July 2018.
