@@ -14,8 +14,14 @@ intro_image_hide_on_mobile: true
 
 *   Publications (IEEE, ISIF Fusion, SPIE ...)
 
-#### Sensor Fusion (IMM-KFs, Bayesian analysis and such)
+<!---->
 
-#### Product (applications for my work in real world)
+*   Sensor Fusion (IMM-KFs, Bayesian analysis and such)
 
-#### Blog (news, literatures, articles ...)
+<!---->
+
+*   Product (applications for my work in real world)
+
+<!---->
+
+*   Blog (news, literatures, articles ...)
