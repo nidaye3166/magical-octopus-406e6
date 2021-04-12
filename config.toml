@@ -57,7 +57,7 @@ url = "/services/"
 weight = 5
 
 [[menu.main]]
-name = "Blog"
+name = "/team/"
 url = "/services/"
 weight = 6
 
