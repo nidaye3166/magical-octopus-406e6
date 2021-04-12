@@ -8,12 +8,22 @@ intro_image_hide_on_mobile: false
 
 *   **Sensor Fusion, Sensor Fusion, Sensor Fusion!**
 
+<!---->
+
 *   **Tracking, Tracking, Tracking!**
+
+<!---->
 
 *   **Localization/Mapping**
 
+<!---->
+
 *   **Statistics**
+
+<!---->
 
 *   **Optimization**
 
-*   **Estimation**
+<!---->
+
+*   **Bayesian Estimation**
