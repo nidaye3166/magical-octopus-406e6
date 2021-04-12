@@ -1,6 +1,18 @@
 ---
 date: '2018-02-22T17:01:34+07:00'
-title: dd\\
+title: 
+---
+title: Just say hello!
+author: My Friend
+header-includes: |
+    \usepackage{tikz,pgfplots}
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhead[CO,CE]{This is fancy}
+    \fancyfoot[CO,CE]{So is this}
+    \fancyfoot[LE,RO]{\thepage}
+abstract: This is a pandoc test with Markdown + inline LaTeX
+---
 ---
 {\textbf{\emph{Journal (J) Articles:}}}
 \smallskip\begin{enumerate}\[\ \ J1.$!$]
