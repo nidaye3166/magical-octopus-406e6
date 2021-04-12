@@ -191,7 +191,7 @@ models:
         label: Title
         description: The title of the menu item
         required: true
-            - type: string
+      - type: string
         name: name
         label: Title
         description: The title of the menu item
