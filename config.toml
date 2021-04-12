@@ -33,7 +33,6 @@ footer = { }
   summary_large_truncate = 120
 
 [[menu.main]]
-name = "About"
 url = "/services/"
 weight = 1
 
