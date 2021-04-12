@@ -124,4 +124,11 @@ abstract: This is a pandoc test with Markdown + inline LaTeX
 %%
 %%\begin{enumerate}\[\ \ P1.$!$]
 %%\item {\textbf{T. Yuan}}, Y. Bar-Shalom, P. K. Willett and R. Ben-Dov and S. Pollak, A Comparison of Multiple-IMM Estimation Approaches using EKF, UKF and PF for Impact Point Prediction",  {\textbf{25-min Oral Presentation}} at SPIE Conference, Baltimore Convention Center, Baltimore, MD, Apr. 2014.
-%%%%\item {\textbf{T. Yuan}}, Y. Bar-Shalom, P. K. Willett and R. Ben-Dov and S. Pollak, Estimability of Thrusting Trajectories in 3-D from a Single Passive Sensor with Unknown Launch Point",   {\textbf{25-min Oral Presentation}} at SPIE Conference, San Diego Convention Center, 
+%%%%\item {\textbf{T. Yuan}}, Y. Bar-Shalom, P. K. Willett and R. Ben-Dov and S. Pollak, Estimability of Thrusting Trajectories in 3-D from a Single Passive Sensor with Unknown Launch Point",   {\textbf{25-min Oral Presentation}} at SPIE Conference, San Diego Convention Center, San Diego, CA, Aug. 2013.
+%%%%\item {\textbf{T. Yuan}}, Y. Bar-Shalom, P. K. Willett and R. Ben-Dov and S. Pollak, Estimability of Thrusting Trajectories in 3-D from a Single Passive Sensor",   {\textbf{25-min Oral Presentation}} at SPIE Conference, Baltimore Convention Center, Baltimore, MD, April 2013.
+%%%%\item {\textbf{T. Yuan}}, Y. Bar-Shalom, P. K. Willett and D. Hardiman, Impact Point Prediction for Thrusting Projectiles in the Presence of Wind",   {\textbf{Poster/Oral Presentation}} at SPIE Conference, Baltimore Convention Center, Baltimore, MD, April 2012.
+%%%%\item {\textbf{T. Yuan}}, Y. Bar-Shalom and X. Tian, Heterogeneous Track-to-Track Fusion",   {\textbf{25-min Oral Presentation}} at 14th ICIF Conference, Hyatt Regency Chicago, IL, July 2011.
+%%%%\item {\textbf{T. Yuan}}, Y. Bar-Shalom, P. K. Willett, E. Mozeson, S. Pollak  and David Hardiman, A multiple IMM approach with unbiased mixing for thrusting projectiles", {\textbf{20-min Oral Presentation}} at SPIE Conference, Orlando World Center Marriott Resort & Convention Center, Orlando, FL, April 2011.
+%%%%\item {\textbf{T. Yuan}}, Y. Bar-Shalom, P.K. Willett and D. Hardiman, \`\`Impact Point Prediction for Short Range Thrusting Projectiles",  {\textbf{Poster/Oral Presentation}} at SPIE Conference, Orlando World Center Marriott Resort & Convention Center, Orlando, FL, April 2010.
+%%
+%%\end{enumerate}
