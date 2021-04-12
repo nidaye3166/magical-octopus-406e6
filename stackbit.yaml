@@ -181,6 +181,11 @@ models:
         name: weight
         label: Weight
         description: Position for sorting
+      - type: string
+        name: name
+        label: Title
+        description: The title of the menu item
+        required: true
             - type: string
         name: name
         label: Title
