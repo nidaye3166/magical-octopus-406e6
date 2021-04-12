@@ -44,7 +44,7 @@ weight = 2
 
 [[menu.main]]
 name = "Publications"
-url = "/about/"
+url = "/services/"
 weight = 3
 
 [[menu.main]]
