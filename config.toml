@@ -46,7 +46,7 @@ parent = "lorem-ipsum"
 type = "site_menu_item"
 
 [[menu.main]]
-name = "Team"
+name = "Education"
 url = "/team/"
 weight = 2
 
