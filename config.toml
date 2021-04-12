@@ -54,7 +54,7 @@ weight = 4
 
 [[menu.main]]
 name = "Products"
-url = "lorem-ipsum"
+url = "/services/"
 weight = 5
 
 [[menu.main]]
