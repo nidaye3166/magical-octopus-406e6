@@ -133,4 +133,7 @@ abstract: This is a pandoc test with Markdown + inline LaTeX
 %%
 %%\end{enumerate}
 
+And now, just a few words to terminate:
+
+> Goodbye folks!
 
