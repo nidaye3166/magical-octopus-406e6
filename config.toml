@@ -56,17 +56,17 @@ parent = "lorem-ipsum"
 type = "site_menu_item"
 
 [[menu.main]]
-name = "Contact"
-url = "/contact/"
-weight = 4
-
-[[menu.main]]
 identifier = "lorem-ipsum"
 name = "Products"
 url = "lorem-ipsum"
 weight = 0
 parent = "lorem-ipsum"
 type = "site_menu_item"
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 4
 
 [[menu.main]]
 identifier = "lorem-ipsum"
