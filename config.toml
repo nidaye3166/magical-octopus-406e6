@@ -38,7 +38,7 @@ name = "About"
 
 [[menu.main]]
 name = "Research"
-url = "/team//services/"
+url = "/services/"
 weight = 2
 
 [[menu.main]]
