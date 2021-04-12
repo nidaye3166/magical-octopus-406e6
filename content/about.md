@@ -132,3 +132,5 @@ abstract: This is a pandoc test with Markdown + inline LaTeX
 %%%%\item {\textbf{T. Yuan}}, Y. Bar-Shalom, P.K. Willett and D. Hardiman, \`\`Impact Point Prediction for Short Range Thrusting Projectiles",  {\textbf{Poster/Oral Presentation}} at SPIE Conference, Orlando World Center Marriott Resort & Convention Center, Orlando, FL, April 2010.
 %%
 %%\end{enumerate}
+
+
