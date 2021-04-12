@@ -12,7 +12,7 @@ abstract: This is a pandoc test with Markdown + inline LaTeX
 
 ---
 
-__Journal (J) Articles:}}}
+__Journal__ \(J) Articles:}}}
 \smallskip\begin{enumerate}\[\ \ J1.$!$]
 \item {\textbf{T. Yuan}} and Yaakov Bar-Shalom, Sensor Fusion for Autonomous Systems: opportunities, challenges and paths for industrial applications'', drafting, \emph{IEEE Signal Processing Magazine}, Dec. 2020.
 \item {\textbf{T. Yuan}}, et al., Object Tracking with De-Autocorrealtion Scheme for data from Multiple Stage Bayesian Analysis". in Revision, \emph{IEEE Trans. Intelligent Transportation Systems}, 2020.
