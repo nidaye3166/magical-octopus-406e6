@@ -12,7 +12,7 @@ header-includes: |
     \fancyfoot[CO,CE]{So is this}
     \fancyfoot[LE,RO]{\thepage}
 abstract: This is a pandoc test with Markdown + inline LaTeX
----
+
 ---
 {\textbf{\emph{Journal (J) Articles:}}}
 \smallskip\begin{enumerate}\[\ \ J1.$!$]
