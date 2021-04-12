@@ -38,14 +38,6 @@ weight = 1
 name = "About"
 
 [[menu.main]]
-identifier = "lorem-ipsum"
-name = "lorem-ipsum"
-url = "lorem-ipsum"
-weight = 0
-parent = "lorem-ipsum"
-type = "site_menu_item"
-
-[[menu.main]]
 name = "Research"
 url = "/team/"
 weight = 2
