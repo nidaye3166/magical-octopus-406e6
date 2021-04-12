@@ -11,7 +11,7 @@ header-includes: |
 abstract: This is a pandoc test with Markdown + inline LaTeX
 
 ---
-#### __Journal (J)__ Articles
+ __Journal (J)__ Articles
 
 ##### __T. Yuan__ and Yaakov Bar-Shalom, ``Sensor Fusion for Autonomous Systems: opportunities, challenges and paths for industrial applications'', drafting, _IEEE Signal Processing Magazine_, Dec. 2020.
 
