@@ -35,7 +35,7 @@ footer = { }
 [[menu.main]]
 url = "/services/"
 weight = 1
-name = "Intro"
+name = "About"
 
 [[menu.main]]
 identifier = "lorem-ipsum"
