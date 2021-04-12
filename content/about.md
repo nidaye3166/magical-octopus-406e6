@@ -1,8 +1,7 @@
 ---
 date: '2018-02-22T17:01:34+07:00'
 title: 
----
-title: Just say hello!
+
 author: My Friend
 header-includes: |
     \usepackage{tikz,pgfplots}
