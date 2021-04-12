@@ -8,7 +8,7 @@ title:
 
 > _J2_. __T. Yuan__, et al., Object Tracking with De-Autocorrealtion Scheme for data from Multiple Stage Bayesian Analysis". in Revision, _IEEE Trans. Intelligent Transportation Systems_, 2020.
 
-> _J3_. D. Nuss, S. Reuter, M. Thom, __T. Yuan__, et al., A Random Finite Set Approach for Dynamic Occupancy Grid Maps with Real-Time Application", \{International Journal of Robotics Research (IJRR)}, vol.37(8): 841-866, July 2018.
+> _J3_. D. Nuss, S. Reuter, M. Thom, __T. Yuan__, et al., A Random Finite Set Approach for Dynamic Occupancy Grid Maps with Real-Time Application", _International Journal of Robotics Research (IJRR)}, vol.37(8): 841-866, July 2018.
 
 \item {\textbf{T. Yuan}}, K. Krishnan, Q. Chen, J. Breu, etc. Object Matching for Inter-Vehicle Communication Systems --- an IMM-based track association approach with sequential multiple hypothesis test", \emph{IEEE Trans. Intelligent Transportation Systems}, Vol.18(12):3501-3512, Sep. 2017.
 \item Q. Lu, S. Coralu, Y. Bar-Shalom, P. Willett, \textbf{T. Yuan}, Efficient Estimation of a Thrusting/Ballistic Trajectory Using a Single Passive Sensor'', accepted with minor revision, \emph{IEEE Trans. Intelligent Transportation Systems}, June 2017.
