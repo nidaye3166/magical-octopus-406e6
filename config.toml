@@ -58,12 +58,9 @@ url = "lorem-ipsum"
 weight = 5
 
 [[menu.main]]
-identifier = "lorem-ipsum"
 name = "Blog"
 url = "lorem-ipsum"
 weight = 6
-parent = "lorem-ipsum"
-type = "site_menu_item"
 
 [[menu.main]]
 name = "Contact"
