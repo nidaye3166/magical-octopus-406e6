@@ -48,7 +48,6 @@ url = "/about/"
 weight = 3
 
 [[menu.main]]
-identifier = "lorem-ipsum"
 name = "SensorFusion"
 url = "lorem-ipsum"
 weight = 4
