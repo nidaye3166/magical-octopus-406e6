@@ -4,7 +4,7 @@ title:
 ---
 Journal (J) Articles 
 
-T. Yuan and Yaakov Bar-Shalom, ``Sensor Fusion for Autonomous Systems: opportunities, challenges and paths for industrial applications'', drafting, \emph{IEEE Signal Processing Magazine}, Dec. 2020.
+T. Yuan and Yaakov Bar-Shalom, ``Sensor Fusion for Autonomous Systems: opportunities, challenges and paths for industrial applications'', drafting, IEEE Signal Processing Magazine}, Dec. 2020.
 \item {\textbf{T. Yuan}}, et al., Object Tracking with De-Autocorrealtion Scheme for data from Multiple Stage Bayesian Analysis". in Revision, \emph{IEEE Trans. Intelligent Transportation Systems}, 2020.
 \item D. Nuss, S. Reuter, M. Thom, \textbf{T. Yuan}, et al., A Random Finite Set Approach for Dynamic Occupancy Grid Maps with Real-Time Application", \emph{International Journal of Robotics Research (IJRR)}, vol.37(8): 841-866, July 2018.
 \item {\textbf{T. Yuan}}, K. Krishnan, Q. Chen, J. Breu, etc. Object Matching for Inter-Vehicle Communication Systems --- an IMM-based track association approach with sequential multiple hypothesis test", \emph{IEEE Trans. Intelligent Transportation Systems}, Vol.18(12):3501-3512, Sep. 2017.
